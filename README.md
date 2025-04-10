@@ -8,7 +8,6 @@ Olá, me chamo Isadora de Abreu Corrêa Nóbrega Lucchesi, sou natural de Campin
 
 ```sh
 ALGUMAS CURIOSIDADES!
-- Nasci no dia do atentado às Torres Gêmeas - 11/09
 - A minha infância toda pratiquei diversos tipos de esportes
 - Amo coisas novas (lugares, restaurantes, experiências)
 - Adoro fazer crochê
